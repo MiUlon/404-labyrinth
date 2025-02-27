@@ -1,0 +1,25 @@
+{
+  "name": "404-labyrinth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiUlon/404-labyrinth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MiUlon/404-labyrinth/issues"
+  },
+  "homepage": "https://github.com/MiUlon/404-labyrinth#readme",
+  "dependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
