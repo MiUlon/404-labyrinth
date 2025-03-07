@@ -1,6 +1,6 @@
 ![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)
 
-# UFO
+# Labyrinth 404 not found page
 
 _website design project_
 
