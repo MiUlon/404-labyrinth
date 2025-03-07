@@ -10,7 +10,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/MiUlon/404-labyrinth
+Site published at: https://miulon.github.io/404-labyrinth/
 
 Design: https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI?1455879689
 
